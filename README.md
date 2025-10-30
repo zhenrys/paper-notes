@@ -1,4 +1,4 @@
-# 📚 Henry Zhang's Paper Reading Logs
+# Henry Zhang's Paper Reading Logs
 
 Welcome to my personal repository for recording and summarizing research papers I've read.  
 My focus areas include:
@@ -8,14 +8,14 @@ My focus areas include:
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 - [📅 Reading Log](#-reading-log)
 - [🧱 Template for New Logs](#-template-for-new-logs)
 - [🧩 Legend](#-legend)
 
 ---
 
-## 📅 Reading Log
+## Why Reading Log? 
 
 As mentioned in [this insightful post](https://www.xiaohongshu.com/discovery/item/68fc7fa90000000003035c7e?source=webshare),  
 > “**Scientific research begins with reading papers.**”  
