@@ -1,4 +1,4 @@
-# Henry Zhang's Paper Reading Logs
+# 📚 Henry Zhang's Paper Reading Logs
 
 Welcome to my personal repository for recording and summarizing research papers I've read.  
 My focus areas include:
@@ -8,43 +8,59 @@ My focus areas include:
 
 ---
 
-## Table of Contents
+## 🗂️ Table of Contents
+- [Why Reading Log?](#why-reading-log)
 - [📅 Reading Log](#-reading-log)
 - [🧱 Template for New Logs](#-template-for-new-logs)
 - [🧩 Legend](#-legend)
+- [One More Thing](#one-more-thing)
 
 ---
 
-## Why Reading Log? 
+## Why Reading Log?
 
-As mentioned in [this insightful post](https://www.xiaohongshu.com/discovery/item/68fc7fa90000000003035c7e?source=webshare),  
+As mentioned in [this insightful post](https://www.xiaohongshu.com/discovery/item/68fc7fa90000000003035c7e?source=webshare):  
 > “**Scientific research begins with reading papers.**”  
 > Typically, each research area has **10–20 core papers** that should be studied thoroughly,  
 > and around **40–50 important papers** that deserve focused reading.  
 
 Following this philosophy — and guided by GPT-5’s recommendations —  
-I maintain this structured log to record my progress during different stages of reading and exploration.
+I maintain this structured log to record my progress across different stages of research reading and exploration.
+
+---
 
 ## 📅 Reading Log
 
-| Date | Paper | Year | Notes | Status |
-|------|--------|------|--------|---------|
-| 2025-10-29 | **Attention Is All You Need** | 2017 | Introduced the Transformer; foundation for all subsequent sequence models. | ✅ Done |
-| 2025-10-30 | **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** | 2019 | Bidirectional pretraining with Masked LM and NSP; milestone in NLP. | ✅ Done |
-| 2025-10-30 | **RoBERTa: A Robustly Optimized BERT Pretraining Approach** | 2019 | Improved training dynamics and data efficiency; stronger baselines. | ✅ Done |
-| 2025-10-30 | **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations** | 2020 | Introduced parameter sharing and embedding factorization for efficiency. | ✅ Done |
-
-
+| No. | Paper | Year | Keywords / Main Contribution | Status |
+|:---:|:------|:----:|:-----------------------------|:--------|
+| 1 | **Attention Is All You Need** | 2017 | Proposed the Transformer architecture — the foundation of all subsequent large-scale models. | ✅ Done · 2025-10-29 |
+| 2 | **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** | 2018 | Introduced bidirectional masked language modeling and the pre-training + fine-tuning paradigm. | ✅ Done · 2025-10-30 |
+| 3 | **RoBERTa: A Robustly Optimized BERT Pretraining Approach** | 2019 | Demonstrated that “more data and better recipes” can significantly improve BERT’s performance. | ✅ Done · 2025-10-30 |
+| 4 | **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations** | 2019 | Achieved lightweight scalability through parameter sharing and embedding factorization. | ✅ Done · 2025-10-30 |
+| 5 | **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation** | 2019 |  | 📖 Planned |
+| 6 | **T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer** | 2020 |  | 📖 Planned |
+| 7 | **GPT-3: Language Models are Few-Shot Learners** | 2020 |  | 📖 Planned |
+| 8 | **Scaling Laws for Neural Language Models** | 2020 |  | 📖 Planned |
+| 9 | **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** | 2020 |  |  |
+| 10 | **Switch Transformer: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** | 2021 |  |  |
+| 11 | **Chinchilla: Training Compute-Optimal Large Language Models** | 2022 |  |  |
+| 12 | **PaLM: Scaling Language Modeling with Pathways** | 2022 |  |  |
+| 13 | **InstructGPT: Training Language Models to Follow Instructions with Human Feedback** | 2022 |  |  |
+| 14 | **FLAN / Flan-T5: Scaling Instruction-Finetuned Language Models** | 2022 |  |  |
+| 15 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | 2022 |  |  |
+| 16 | **Constitutional AI: Harmlessness from AI Feedback** | 2022 |  |  |
+| 17 | **GPT-4 Technical Report** | 2023 |  |  |
+| 18 | **LLaMA / LLaMA 2: Open and Efficient Foundation Language Models** | 2023 |  |  |
+| 19 | **Mixtral: Sparse Mixture-of-Experts Model** | 2024 |  |  |
+| 20 | **LLaMA 3 Series** | 2024 |  |  |
 
 ---
 
 ## 🧱 Template for New Logs
 
-> 🧩 Copy this structure when adding a new paper to the log.
-
-| Date | Paper | Venue | Keywords | Status | Type | Notes |
-|------|--------|--------|----------|---------|-------|--------|
-| YYYY-MM-DD | **[Paper Title]** | [Conference / Journal] | [Key Concepts, Methods, Datasets] | ✅ Done / 🕒 Reading / 📖 Planned | 🔑 Core / 🧩 Topic / ⚙️ Efficiency / 🚀 Focus | Brief summary, thoughts, or reflections. |
+| No. | Paper | Year | Keywords / Main Contribution | Status |
+|:---:|:------|:----:|:-----------------------------|:--------|
+| XX | **[Paper Title]** | [Year] | [Brief summary, core ideas, or keywords] | ✅ Done / 📖 Planned / 🕒 Reading + Date |
 
 ---
 
@@ -53,12 +69,12 @@ I maintain this structured log to record my progress during different stages of 
 | Symbol | Meaning |
 |:-------|:---------|
 | ✅ Done | Fully read and summarized |
-| 🕒 Reading | Currently reading |
 | 📖 Planned | Planned for future reading |
 | 🔑 Core | Foundational or highly influential paper |
-| 🧩 Topic | Thematically relevant work |
-| ⚙️ Efficiency | Lightweight or optimization-oriented paper |
+| 🧩 Topic | Thematically related or supporting work |
+| ⚙️ Efficiency | Lightweight or optimization-focused paper |
 | 🚀 Focus | Central to my ongoing research direction |
+
 
 ---
 
