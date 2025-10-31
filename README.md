@@ -38,8 +38,8 @@ What's more, I hope these reading records can serve as a useful reference and he
 | 2 | **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** | 2018 | Introduced bidirectional masked language modeling and the <mark>pre-training + fine-tuning paradigm<mark>. | ✅ Done · 2025-10-30 |
 | 3 | **RoBERTa: A Robustly Optimized BERT Pretraining Approach** | 2019 | Demonstrated that <mark>“more data and better recipes”<mark> can significantly improve BERT’s performance. | ✅ Done · 2025-10-30 |
 | 4 | **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations** | 2019 | Achieved lightweight scalability through <mark>parameter sharing and embedding factorization<mark>. | ✅ Done · 2025-10-30 |
-| 5 | **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation** | 2019 |  | 📖 Planned |
-| 6 | **T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer** | 2020 |  | 📖 Planned |
+| 5 | **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation** | 2019 | BERT+GPT的结构，并在encoder端尝试多种noise｜「知乎回答｜潘小小」https://zhuanlan.zhihu.com/p/173858031  | ✅ Done · 2025-10-31 |
+| 6 | **T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer** | 2020 | 提出一个通用框架，将所有 NLP 任务都转化成 Text-to-Text （文本到文本）任务｜「知乎回答｜Andy Yang」https://zhuanlan.zhihu.com/p/88438851 | ✅ Done · 2025-10-31 |
 | 7 | **GPT-3: Language Models are Few-Shot Learners** | 2020 |  | 📖 Planned |
 | 8 | **Scaling Laws for Neural Language Models** | 2020 |  | 📖 Planned |
 | 9 | **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** | 2020 |  |  |
