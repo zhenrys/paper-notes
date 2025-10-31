@@ -13,7 +13,6 @@ My focus areas include:
 - [📅 Reading Log](#-reading-log)
 - [🧱 Template for New Logs](#-template-for-new-logs)
 - [🧩 Legend](#-legend)
-- [One More Thing](#one-more-thing)
 
 ---
 
@@ -27,16 +26,18 @@ As mentioned in [this insightful post](https://www.xiaohongshu.com/discovery/ite
 Following this philosophy — and guided by GPT-5’s recommendations —  
 I maintain this structured log to record my progress across different stages of research reading and exploration.
 
+What's more, I hope these reading records can serve as a useful reference and help fellow newcomers navigate the landscape of research reading more effectively 🚀 🚀 🚀 .
+
 ---
 
 ## 📅 Reading Log
 
 | No. | Paper | Year | Keywords / Main Contribution | Status |
 |:---:|:------|:----:|:-----------------------------|:--------|
-| 1 | **Attention Is All You Need** | 2017 | Proposed the Transformer architecture — the foundation of all subsequent large-scale models. | ✅ Done · 2025-10-29 |
-| 2 | **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** | 2018 | Introduced bidirectional masked language modeling and the pre-training + fine-tuning paradigm. | ✅ Done · 2025-10-30 |
-| 3 | **RoBERTa: A Robustly Optimized BERT Pretraining Approach** | 2019 | Demonstrated that “more data and better recipes” can significantly improve BERT’s performance. | ✅ Done · 2025-10-30 |
-| 4 | **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations** | 2019 | Achieved lightweight scalability through parameter sharing and embedding factorization. | ✅ Done · 2025-10-30 |
+| 1 | **Attention Is All You Need** | 2017 | Proposed the <mark>Transformer architecture<mark> | ✅ Done · 2025-10-29 |
+| 2 | **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** | 2018 | Introduced bidirectional masked language modeling and the <mark>pre-training + fine-tuning paradigm<mark>. | ✅ Done · 2025-10-30 |
+| 3 | **RoBERTa: A Robustly Optimized BERT Pretraining Approach** | 2019 | Demonstrated that <mark>“more data and better recipes”<mark> can significantly improve BERT’s performance. | ✅ Done · 2025-10-30 |
+| 4 | **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations** | 2019 | Achieved lightweight scalability through <mark>parameter sharing and embedding factorization<mark>. | ✅ Done · 2025-10-30 |
 | 5 | **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation** | 2019 |  | 📖 Planned |
 | 6 | **T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer** | 2020 |  | 📖 Planned |
 | 7 | **GPT-3: Language Models are Few-Shot Learners** | 2020 |  | 📖 Planned |
@@ -60,9 +61,12 @@ I maintain this structured log to record my progress across different stages of 
 
 | No. | Paper | Year | Keywords / Main Contribution | Status |
 |:---:|:------|:----:|:-----------------------------|:--------|
-| XX | **[Paper Title]** | [Year] | [Brief summary, core ideas, or keywords] | ✅ Done / 📖 Planned / 🕒 Reading + Date |
+| XX | **[Paper Title]** | [Year] | [Brief summary, <mark>core ideas<mark>, or keywords] | ✅ Done / 📖 Planned / 🕒 Reading + Date |
 
----
+```
+# how to highlight
+<mark>highlight text<mark>
+```
 
 ## 🧩 Legend
 
@@ -76,7 +80,4 @@ I maintain this structured log to record my progress across different stages of 
 | 🚀 Focus | Central to my ongoing research direction |
 
 
----
 
-## One more thing 
-I hope these reading records can serve as a useful reference and help fellow newcomers navigate the landscape of research reading more effectively 🚀 🚀 🚀 .
